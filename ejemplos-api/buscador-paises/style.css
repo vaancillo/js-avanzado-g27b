@@ -2,6 +2,8 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
+    background-color: #202020;
+    color: white;
 }
 
 header {
@@ -40,6 +42,7 @@ h1 {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    margin-top: 20px;
 }
 
 .country-card {
